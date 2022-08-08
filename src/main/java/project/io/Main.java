@@ -26,8 +26,16 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        MyReaderWriter.br();
+
+//        MyIOStream.bis();
+//        MyIOStream.bos();
+
+        MyIOStream.ois();
+//        MyIOStream.oos();
+
+//        MyReaderWriter.br();
 //        MyReaderWriter.bw();
 //        MyReaderWriter.pw();
+
     }
 }
