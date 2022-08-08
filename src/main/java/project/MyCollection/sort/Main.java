@@ -13,11 +13,13 @@ import java.util.List;
  * https://qiita.com/KevinFQ/items/09c73cc76cb646ae63f4
  * <p>
  * comparable：デフォルトソートを定義
+ * comparator：ソートのための一時的な定義
  *
  * @FunctionalInterface Comparator
  * int compare(T o1, T o2);
  * <p>
- * compareTo
+ *
+ * compareToはただの関数（よく比較で使うだけ）
  * 引数よりも自分が大きいときは1
  */
 /*
