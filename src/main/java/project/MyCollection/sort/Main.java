@@ -1,4 +1,4 @@
-package project.sort;
+package project.MyCollection.sort;
 
 import util.MyInstance;
 import util.MyLog;
@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Random;
 
 /**
  * ソート
