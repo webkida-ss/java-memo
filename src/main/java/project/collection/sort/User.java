@@ -1,10 +1,9 @@
-package project.basic.my_object;
+package project.collection.sort;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-import java.io.Serializable;
-
+@Data // setter/getter/hashCode/equals/toString
 @AllArgsConstructor
 public class User{
     private int id;

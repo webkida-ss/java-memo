@@ -1,4 +1,4 @@
-package project.basic.my_object;
+package project.basic.object;
 
 import util.MyLog;
 
@@ -39,7 +39,6 @@ import util.MyLog;
  * https://penguinlabo.hatenablog.com/entry/java/EqualsAndHashCode
  */
 public class Main {
-
     public static void main(String[] args) {
         normal();
         custom();

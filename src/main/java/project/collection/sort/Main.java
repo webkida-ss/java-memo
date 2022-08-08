@@ -1,4 +1,4 @@
-package project.MyCollection.sort;
+package project.collection.sort;
 
 import util.MyInstance;
 import util.MyLog;
@@ -26,7 +26,6 @@ import java.util.List;
 
  */
 public class Main {
-
 
     public static void main(String[] args) {
         comparableSorted();

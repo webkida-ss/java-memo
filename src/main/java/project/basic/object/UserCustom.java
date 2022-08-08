@@ -1,4 +1,4 @@
-package project.basic.my_object;
+package project.basic.object;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

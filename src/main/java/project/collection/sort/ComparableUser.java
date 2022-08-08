@@ -1,4 +1,4 @@
-package project.MyCollection.sort;
+package project.collection.sort;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

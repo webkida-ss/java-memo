@@ -1,9 +1,7 @@
-package project.MyCollection.sort;
+package project.basic.object;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
 
-@Data // setter/getter/hashCode/equals/toString
 @AllArgsConstructor
 public class User{
     private int id;
